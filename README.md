@@ -1,7 +1,7 @@
 # Interplanetary Trajectory Simulator: Earth to Mars (Hohmann Transfer)
 
 ## About Me And My Journey
-Hi, I'm a **15-years-old aerospace enthusiast** currently living in Finland. My ultimate goal is to study Aerospace Engineering/astrophysics in the United States, specifically at **Columbian Univercity in the City of New York**, on a full-ride scholarship
+Hi, I'm a **15-years-old aerospace enthusiast** currently living in Finland. My ultimate goal is to study Aerospace Engineering/astrophysics in the United States, specifically at **MIT in the Boston**, on a full-ride scholarship
 
 Even thought I'm facing a double language barrier (learning both Finnish and English simultaneously) and had **zero coding experience**, I refuse to let thet stop me. I believe that the language of physics and mathematics is universal. To achieve my dream, I bought a powerful engineering laptop, taught myself the basics of Python, and successfully built this irbital mechanics simulator from scratch.
 
@@ -37,7 +37,7 @@ When executed, the program successfully solves the orbital mechanics equations a
 ---
 
 ## My 4-5-Year Interplanetary Strategic Roadmap
-To reach my dream of attending Columbia University, I have structured my academic and engineering journey into a rigorous multi-year plan:
+To reach my dream of attending MIT, I have structured my academic and engineering journey into a rigorous multi-year plan:
 
 ### Phase 1: Advanced Software And 3D Engineering (Next 1.5 Year)
 * **Mathematical Olympiad Track (Grade 8 and Grade 9):** I am actively competing  in mathematical olympiads during my current 8th-grade year and will continue competing at the highest level throughout the 9th grade to build a bulletproof foundation in advanced problem-solving.
